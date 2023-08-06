@@ -1,0 +1,101 @@
+@charset "utf-8";
+*{
+    background-color: #d3d0d0;
+}
+.imgRedonda {
+    width: 200px;
+    height: 200px;
+    border-radius:180px;
+    border:10px solid #c5c2c2;
+}
+.Header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(245, 216, 232);
+    border: rgb(245, 216, 232) 25px solid;
+    border-radius: 15px;
+
+}
+#bienvenida{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#menu{
+    margin-left: auto;
+    margin-right: auto;
+}
+.secciones{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px;
+}
+
+#SobreMi{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 40px;
+    padding: auto;
+}
+
+.sobreMi{
+    background-color: rgb(245, 216, 232);
+    margin-left:20px ;
+    margin-right: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+#Experiencia{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 40px;
+    padding: auto  
+}
+
+#Educación{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 40px;
+    padding: auto
+}
+
+#Contacto{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 40px;
+}
+
+.listaEducacion{
+    background-color: rgb(245, 216, 232);
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+    padding: 15px;
+}
+li{
+    background-color: rgb(245, 216, 232);
+    margin-left: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+strong{
+    background-color: rgb(245, 216, 232);
+}
+ul{
+    background-color: rgb(245, 216, 232);
+}
+
+.listaExperiencia{
+    background-color: rgb(245, 216, 232);
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+    padding: 15px;
+}
+.logo{
+    width: 40px;
+    margin-right: 30px;
+}
+.tablalogos{
+    margin-left: auto;
+    margin-right: auto;
+}
